@@ -1,126 +1,144 @@
-# Mẫu storyboard video AI ngắn 30–60 giây
+# Mẫu storyboard Claude → CapCut AI (mỗi clip 5 giây)
 
-Sao chép mẫu này cho mỗi video. Điền phần **Story bible** trước, sau đó mới điền shot. Để nhân vật nhất quán, giữ nguyên mô tả nhân vật đã khóa và dán lại vào mọi prompt shot có nhân vật đó. Shot đầu tiên dành riêng cho **hook 3 giây**.
+Dùng mẫu này để Claude viết kịch bản, storyboard và từng prompt độc lập có thể copy-paste vào CapCut AI. Tạo **6–12 clip**, mỗi clip mục tiêu **5 giây**, để ghép thành video 30–60 giây. Hook 3 giây nằm trong clip 1; không tạo clip 3 giây riêng.
 
-## 1. Thông tin video
+## A. Thông tin video
 
 - **Chủ đề:** [câu chuyện / triết lý / lịch sử]
-- **Tiêu đề làm việc:** [tên ngắn]
+- **Tiêu đề làm việc:** [tên]
 - **Nền tảng:** YouTube Shorts / TikTok
-- **Thông điệp duy nhất:** [khán giả nên nhớ điều gì?]
-- **Cảm xúc chủ đạo:** [tò mò / xúc động / hồi hộp / suy ngẫm...]
-- **Đối tượng xem:** [mô tả ngắn]
-- **Thời lượng mục tiêu:** [30–60 giây]
-- **Phong cách hình ảnh cố định:** [ví dụ: điện ảnh hiện реалистич, tranh khắc gỗ, hoạt hình 3D]
-- **Tỷ lệ/đầu ra:** 9:16, 1080×1920
-- **Cơ sở lịch sử/nguồn kiểm chứng (nếu có):** [nguồn]
-- **Chi tiết tái dựng hoặc hư cấu cần ghi chú:** [nếu có]
+- **Thông điệp duy nhất:** [khán giả nên nhớ gì?]
+- **Cảm xúc:** [tò mò / xúc động / hồi hộp / suy ngẫm]
+- **Thời lượng:** [30/35/40/45/50/55/60] giây
+- **Số clip 5 giây:** [thời lượng ÷ 5]
+- **Phong cách/tông màu cố định:** [mô tả]
+- **Nguồn lịch sử đã kiểm tra (nếu có):** [nguồn]
+- **Phần tái dựng/hư cấu (nếu có):** [ghi rõ]
 
-## 2. Hook 3 giây
+## B. Hook 3 giây đầu (nằm trong clip 1)
 
-- **Loại hook:** [bí ẩn / nghịch lý / khoảnh khắc quyết định / kết quả trước nguyên nhân / câu hỏi triết lý]
-- **Câu đọc (ngắn, rõ):** [lời mở đầu]
-- **Hình ảnh đầu tiên:** [hành động/chi tiết cụ thể, có thể hiểu ngay khi lướt]
-- **Chữ trên màn hình:** [từ khóa ngắn; không chép nguyên cả lời đọc]
-- **Âm thanh:** [nhấn âm/nhạc/âm thanh hiện trường; không lấn giọng]
-- **Manh mối dẫn sang giây 3–10:** [câu hỏi hoặc hành động tiếp nối]
-- **Payoff sẽ trả lời hook ở shot:** [Sxx]
-- **Kiểm chứng:** [hook có đúng với nội dung, không phóng đại/bịa dữ kiện?]
+- **Kiểu hook:** [bí ẩn / nghịch lý / quyết định / kết quả trước nguyên nhân / câu hỏi triết lý]
+- **Câu voice-over:** [ngắn, rõ, có thể nói tự nhiên trong 3 giây]
+- **Hình ảnh đầu tiên:** [một hành động/chi tiết đọc được ngay]
+- **Chữ khóa sẽ thêm trong CapCut:** [tùy chọn, thật ngắn]
+- **Âm thanh:** [nhấn âm nhẹ/âm hiện trường/nhạc; voice vẫn rõ]
+- **Nối từ giây 3 đến giây 5:** [manh mối/cử động/câu dẫn vào clip 2]
+- **Payoff ở clip:** [số clip]
+- **Kiểm chứng:** [hook trung thực với nội dung?]
 
-Nhịp tham khảo: **0.0–0.5s** vào hình/hành động đáng chú ý; **0.5–2.2s** nói câu hook và hiện từ khóa; **2.2–3.0s** đưa manh mối/nối sang phần thiết lập. Không bắt buộc phải cắt đúng các mốc này; ưu tiên câu dễ hiểu và nhịp tự nhiên.
-
-## 3. Story bible — khóa liên tục
+## C. Story bible — thông tin phải giữ cố định
 
 ### Nhân vật
 
-> Tạo một bảng cho mỗi nhân vật. Đặt mã cố định và không đổi mã giữa các cảnh.
-
-| Mã/tên | Đặc điểm nhận dạng cố định | Trang phục/phụ kiện cố định | Tư thế/giọng điệu | Được phép thay đổi | Tuyệt đối không đổi |
+| Mã/tên | Nhận dạng cố định: tuổi, vóc dáng, da, khuôn mặt, mắt, tóc, dấu hiệu riêng | Trang phục/phụ kiện cố định | Được đổi | Không được đổi | Ảnh tham chiếu (nếu có) |
 |---|---|---|---|---|---|
-| CHAR-01 / [tên] | [tuổi; vóc dáng; mặt; mắt; da; tóc; dấu hiệu riêng] | [từng món, màu, chất liệu] | [khí chất/cách nói] | [biểu cảm, hướng nhìn, tư thế theo hành động] | [mặt, tóc, tuổi, phục trang, dấu hiệu...] |
+| CHAR-01 / [tên] | [...] | [...] | biểu cảm, hướng nhìn, tư thế theo storyboard | khuôn mặt, tuổi, tóc, da, dấu hiệu, trang phục | [tên ảnh] |
 | CHAR-02 / [tên] | [...] | [...] | [...] | [...] | [...] |
 
-**Mô tả khóa CHAR-01 (dán nguyên văn vào prompt):**
+**Mô tả nguyên văn để dán vào mọi prompt có CHAR-01:**
 
-> [Viết thành một đoạn cụ thể, ví dụ: “Người đàn ông khoảng 60 tuổi, vóc dáng gầy, khuôn mặt dài, da nâu sáng, mắt nâu sâu, lông mày bạc, tóc bạc chải ngược, ria mép mảnh. Mặc áo choàng vải lanh màu xanh sẫm, thắt lưng da nâu, dép da đơn giản; luôn đeo nhẫn đồng ở ngón trỏ tay phải.”]
-
-**Ảnh tham chiếu chuẩn:** [tên file/đường dẫn/ID ảnh; ghi rõ góc nhìn]
+> [Một đoạn mô tả hoàn chỉnh, cụ thể; giữ nguyên câu chữ trong mọi clip.]
 
 ### Đạo cụ
 
-| Mã/tên | Hình dạng, vật liệu, màu và dấu hiệu nhận dạng | Chủ sở hữu/người cầm | Trạng thái ban đầu | Các thay đổi được phép và shot xảy ra |
-|---|---|---|---|---|
-| PROP-01 / [tên] | [chi tiết nhận dạng] | [CHAR-ID / vị trí] | [đóng/mở/nguyên vẹn/...] | [ví dụ: mở ở S04, chuyển sang CHAR-02 ở S06] |
-| PROP-02 / [tên] | [...] | [...] | [...] | [...] |
+| Mã/tên | Hình dạng/màu/chất liệu/dấu hiệu | Người giữ/vị trí ban đầu | Tay cầm | Trạng thái đầu | Thay đổi được phép và clip xảy ra |
+|---|---|---|---|---|---|
+| PROP-01 / [tên] | [...] | [...] | [...] | [...] | [...] |
 
 ### Bối cảnh
 
-| Mã/tên | Thời đại/địa điểm | Bố cục và mốc nền cố định | Ánh sáng/thời tiết | Ảnh tham chiếu |
+| Mã/tên | Thời đại/địa điểm | Mốc nền và bố cục cố định | Thời gian/ánh sáng/thời tiết | Ảnh tham chiếu |
 |---|---|---|---|---|
-| LOC-01 / [tên] | [...] | [cửa bên trái, bàn ở giữa, cửa sổ phía sau...] | [...] | [ID ảnh] |
+| LOC-01 / [tên] | [...] | [cửa, bàn, cửa sổ, đường chân trời ở đâu] | [...] | [tên ảnh] |
 
-**Sơ đồ vị trí/đường di chuyển:** [mô tả trái-phải, gần-xa, hướng cửa, vị trí nhân vật và trục máy quay]
+**Sơ đồ không gian:** [nhân vật đứng bên nào, hướng nhìn/di chuyển, vị trí đạo cụ; giữ cùng trục máy quay]
 
-### Quy tắc liên tục của video
+## D. Voice-over toàn video
 
-- Phong cách/độ hạt/màu sắc: [quy định]
-- Trục không gian và hướng nhìn: [quy định]
-- Những gì không được tự đổi: [liệt kê]
-- Cách thể hiện chuyển thời gian/địa điểm nếu có: [quy tắc]
+Viết lời đọc tiếng Việt theo mốc thời gian. Đọc thử ở tốc độ tự nhiên; không nhồi quá nhiều từ vào clip. Có thể đặt voice-over trên nhiều clip, không cần mỗi clip có một câu trọn vẹn.
 
-## 4. Lời kể và nhịp tổng thể
-
-| Mốc thời gian | Chức năng | Lời kể/thoại dự kiến | Ý hình ảnh |
-|---|---|---|---|
-| 0–3s | Hook | [câu mở] | [hình ảnh gây tò mò] |
-| 3–10s | Thiết lập | [ai/ở đâu/vấn đề gì] | [giới thiệu bối cảnh] |
-| 10–40s | Diễn tiến | [lựa chọn/xung đột] | [hành động theo shot] |
-| 40–55s | Cao trào/kết quả | [điểm ngoặt] | [hành động hoặc phát hiện] |
-| 55–60s | Kết/ý nghĩa | [thông điệp/câu hỏi] | [hình ảnh kết thúc/loop] |
-
-> Điều chỉnh mốc theo thời lượng thực tế. Tổng thời lượng shot bên dưới phải bằng thời lượng mục tiêu; hook phải nằm trọn trong shot mở đầu 0–3 giây.
-
-## 5. Storyboard từng shot
-
-| Shot / thời lượng | Lời kể/thoại + chữ màn hình | Hành động, biểu cảm, vị trí nhân vật | Cỡ cảnh/góc/chuyển động máy | Bối cảnh + đạo cụ/trạng thái | Prompt hình ảnh/video | Âm thanh/chuyển cảnh | Kiểm tra liên tục |
-|---|---|---|---|---|---|---|---|
-| S01 / 0–3s (HOOK) | [câu hook + từ khóa trên màn hình] | [hành động/chi tiết trực quan thu hút ngay; nhân vật ở đâu, nhìn hướng nào] | [cỡ cảnh/góc/máy; vào thẳng hình] | [LOC-ID; PROP-ID và trạng thái] | [prompt hook + mô tả khóa nhân vật/bối cảnh] | [nhấn âm; cách nối S02] | [đúng story bible? hook có payoff?] |
-| S02 / [s] | [thiết lập] | [...] | [...] | [...] | [...] | [...] | [...] |
-| S03 / [s] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| S04 / [s] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| S05 / [s] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| S06 / [s] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-
-**Tổng thời lượng:** [tổng số giây] — phải nằm trong 30–60 giây.
-
-### Mẫu kiểm tra nối cảnh
-
-Với mỗi cặp shot liên tiếp, ghi rõ:
-
-- **Cuối S[n]:** CHAR-01 đứng/ngồi ở [vị trí], mặt/hướng nhìn [hướng], tay [trạng thái], PROP-01 [trạng thái/vị trí].
-- **Đầu S[n+1]:** nhân vật và đạo cụ tiếp tục từ trạng thái trên; thay đổi nào xảy ra được thể hiện bằng hành động hoặc chuyển cảnh rõ ràng: [mô tả].
-
-## 6. Phiếu rà soát sau khi tạo từng shot
-
-| Hạng mục | Đạt? | Ghi chú/lỗi cần sửa |
+| Thời gian | Lời voice-over | Ghi chú nhịp/ngắt |
 |---|---|---|
-| Hook 3 giây đầu dễ hiểu, tạo tò mò và không gây hiểu lầm | ☐ | |
-| Khuôn mặt, tuổi, tóc, tông da và dấu hiệu nhận dạng đúng character lock | ☐ | |
-| Trang phục, màu sắc, phụ kiện đúng và không tự đổi | ☐ | |
-| Đúng số nhân vật, đúng vị trí/hướng nhìn | ☐ | |
-| Đạo cụ đúng hình dạng, người cầm, tay cầm, trạng thái | ☐ | |
-| Bối cảnh, thời đại, bố cục/mốc nền và thời tiết đúng | ☐ | |
-| Hành động khớp storyboard; không có vật thể tự xuất hiện/biến mất | ☐ | |
-| Kết thúc shot nối được với shot kế tiếp | ☐ | |
-| Không có chữ/logo/watermark hoặc lỗi hình không mong muốn | ☐ | |
+| 0–5s | [hook 0–3s + câu dẫn 3–5s] | [...] |
+| 5–10s | [...] | [...] |
+| [tiếp tục mỗi 5 giây] | [...] | [...] |
 
-## 7. Checklist trước khi đăng
+## E. Storyboard theo clip 5 giây
 
-- [ ] Tổng thời lượng nằm trong 30–60 giây; không có đoạn thừa.
-- [ ] Hook có hình/ý rõ trong 3 giây đầu và được trả lời/payoff trong video.
-- [ ] Hook trung thực, không biến chi tiết hư cấu thành sự thật.
-- [ ] Storyboard mô tả chi tiết nhân vật, đạo cụ, bối cảnh và trạng thái nối cảnh.
-- [ ] Phụ đề chính xác, tương phản tốt, nằm trong vùng an toàn dọc.
-- [ ] Voice-over rõ hơn nhạc nền; hiệu ứng âm thanh không lấn lời.
-- [ ] Chi tiết lịch sử đã kiểm chứng hoặc được thể hiện là tái dựng.
-- [ ] Đã xem file xuất trên điện thoại, cả khi bật tiếng và tắt tiếng.
+| Clip / thời gian | Mục đích kể chuyện | Voice-over trong đoạn | Hành động duy nhất | Nhân vật/vị trí/biểu cảm | Bối cảnh + đạo cụ/trạng thái | Camera/bố cục | Khung hình cuối và cách nối |
+|---|---|---|---|---|---|---|---|
+| 01 / 0–5s (HOOK) | Hook 0–3s, dẫn vào chuyện 3–5s | [...] | [...] | [...] | [...] | [...] | [...] |
+| 02 / 5–10s | Thiết lập | [...] | [...] | [...] | [...] | [...] | [...] |
+| 03 / 10–15s | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
+| 04 / 15–20s | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
+| 05 / 20–25s | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
+| 06 / 25–30s | Payoff/kết nếu video 30s | [...] | [...] | [...] | [...] | [...] | [...] |
+| 07 / 30–35s | [chỉ dùng nếu >30s] | [...] | [...] | [...] | [...] | [...] | [...] |
+| 08 / 35–40s | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
+| 09 / 40–45s | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
+| 10 / 45–50s | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
+| 11 / 50–55s | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
+| 12 / 55–60s | Kết/ý nghĩa/loop | [...] | [...] | [...] | [...] | [...] | [...] |
+
+Bỏ các hàng dư để số clip đúng bằng thời lượng ÷ 5.
+
+## F. Prompt copy-paste cho CapCut AI
+
+Claude cần xuất **một prompt riêng cho mỗi clip**, không gộp nhiều clip vào một lệnh. Chép phần nhận dạng và bối cảnh đầy đủ; tránh câu “như cảnh trước”. Không yêu cầu AI tạo phụ đề/chữ để tránh chữ lỗi — thêm chữ trong CapCut sau.
+
+### CLIP 01 — 0–5 giây — HOOK
+
+```text
+Tạo video dọc 9:16 dài khoảng 5 giây. Phong cách: [phong cách/tông màu cố định].
+
+Nhân vật: [dán nguyên văn hồ sơ nhân vật xuất hiện; hoặc ghi không có nhân vật].
+Bối cảnh: [mô tả LOC-ID, bố cục và mốc nền].
+Đạo cụ: [mô tả PROP-ID, vị trí/người giữ/trạng thái; hoặc ghi không có].
+
+Hành động duy nhất: [hình ảnh hook, đơn giản và dễ hiểu ngay].
+Camera: [một cỡ cảnh/góc; máy tĩnh hoặc một chuyển động nhẹ].
+Cuối clip: [tư thế/vị trí/đạo cụ để nối sang clip 02].
+
+Giữ nguyên thiết kế nhân vật, trang phục, đạo cụ, bối cảnh và phong cách như mô tả. Không thêm người/vật không nêu, không đổi mặt/tóc/đồ/vị trí đạo cụ, không chữ/phụ đề/logo/watermark. Tránh chuyển động nhanh và biến dạng.
+```
+
+### CLIP [NN] — [mốc thời gian]
+
+```text
+Tạo video dọc 9:16 dài khoảng 5 giây. Phong cách: [phong cách/tông màu cố định].
+
+Nhân vật: [dán nguyên văn hồ sơ của từng nhân vật có mặt].
+Bối cảnh: [mô tả địa điểm, thời đại, bố cục và mốc nền].
+Đạo cụ: [mô tả hình dạng/màu/chất liệu, người/tay giữ, trạng thái đầu clip].
+
+Hành động duy nhất: [một hành động đơn giản, theo đúng storyboard].
+Vị trí/hướng nhìn: [chi tiết tương quan với mốc nền].
+Camera: [cỡ cảnh/góc; tối đa một chuyển động chậm].
+Cuối clip: [trạng thái cuối nhân vật và đạo cụ, nối sang clip tiếp theo].
+
+Giữ nguyên nhận dạng, khuôn mặt, tóc, trang phục, phụ kiện, tỷ lệ cơ thể,
+đạo cụ, bối cảnh, thời đại và phong cách theo mô tả. Không tự thêm/đổi/xóa
+nhân vật hay vật thể. Không chữ/phụ đề/logo/watermark. Tránh hành động phức tạp,
+chuyển động nhanh, biến dạng mặt/bàn tay.
+```
+
+Lặp khối prompt này cho tất cả clip, thay thông tin theo storyboard. Nếu CapCut AI có chức năng ảnh tham chiếu và bạn chọn dùng, ghi rõ cùng ảnh tham chiếu cho các đoạn liên quan. Nếu không hỗ trợ ảnh tham chiếu, prompt vẫn phải chứa mô tả bằng chữ đầy đủ.
+
+## G. Bảng theo dõi tạo và ghép
+
+| Thứ tự/tên file | Độ dài sau khi cắt | Đã kiểm tra nhân vật | Đạo cụ/bối cảnh đúng | Khung đầu/cuối nối ổn | Cần tạo lại? |
+|---|---:|---|---|---|---|
+| 01-hook.mp4 | 5s | ☐ | ☐ | ☐ | ☐ |
+| 02-thiet-lap.mp4 | 5s | ☐ | ☐ | ☐ | ☐ |
+| 03-dien-tien.mp4 | 5s | ☐ | ☐ | ☐ | ☐ |
+| [...] | 5s | ☐ | ☐ | ☐ | ☐ |
+
+## H. Kiểm tra trước khi đăng
+
+- [ ] Tổng số clip × 5 giây đúng thời lượng mục tiêu (30–60 giây).
+- [ ] Hook dễ hiểu trong 3 giây đầu của clip 01 và payoff không bị bỏ quên.
+- [ ] Không clip nào thiếu prompt độc lập hoặc mô tả khóa nhân vật cần thiết.
+- [ ] Clip nối đúng trạng thái cuối/đầu; đạo cụ không tự đổi tay, biến mất hay xuất hiện.
+- [ ] Lời kể khớp hình, vừa thời lượng và dễ nghe.
+- [ ] Phụ đề thêm trong CapCut, chính tả đúng, nằm trong vùng an toàn.
+- [ ] Đã xem bản ghép trên điện thoại cả khi bật tiếng và tắt tiếng.
