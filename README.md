@@ -4,9 +4,11 @@ Kho lưu trữ ghi chú, prompt và skill hỗ trợ học tập bằng AI.
 
 ## Skill làm video AI ngắn
 
-Bộ hướng dẫn tạo video kể chuyện 30–60 giây cho YouTube Shorts và TikTok, chủ đề câu chuyện, triết lý hoặc lịch sử. Quy trình được thiết kế để dùng Claude viết kịch bản và prompt, sau đó tạo từng đoạn video **5 giây** bằng CapCut AI rồi ghép lại.
+Bộ hướng dẫn tạo video 30–60 giây cho YouTube Shorts và TikTok, dùng Claude để viết kịch bản/prompt, CapCut AI để tạo clip 5 giây rồi ghép lại.
 
 - [Quy trình Claude → CapCut AI](skills/video-ai-short-form/SKILL.md)
-- [Mẫu storyboard 5 giây/đoạn và prompt copy-paste](skills/video-ai-short-form/templates/storyboard-template.md)
+- [Mẫu kể chuyện theo clip 5 giây](skills/video-ai-short-form/templates/storyboard-template.md)
+- [Chế độ explainer lấy cảm hứng từ Vox](skills/video-ai-short-form/VOX-INSPIRED.md)
+- [Mẫu explainer 5 giây/đoạn](skills/video-ai-short-form/templates/vox-explainer-template.md)
 
-Có hướng dẫn hook 3 giây đầu, khóa nhất quán nhân vật/đạo cụ/bối cảnh và kiểm tra nối cảnh.
+Chế độ explainer ưu tiên lời thuyết minh, hình ảnh giải thích, bản đồ/sơ đồ, số liệu và chữ đồ họa tự thêm trong CapCut; không cần nhân vật xuyên suốt nếu chủ đề không cần.
